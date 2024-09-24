@@ -1,0 +1,6 @@
+*.envrc
+
+!template.envrc
+
+plz-out
+
