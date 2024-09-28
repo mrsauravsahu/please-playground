@@ -8,8 +8,5 @@
 ; [please]
 ; version = 17.0.0
 
-; [parse]
-; preloadsubincludes = ///docker-buildx//*
-
-[Plugin "docker-buildx"]
-Target = //plugins:docker-buildx
+[Plugin "please_reuse"]
+Target = //plugins:please_reuse

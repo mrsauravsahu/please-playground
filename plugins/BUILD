@@ -1,6 +1,6 @@
 plugin_repo(
-  name = "docker-buildx",
-  revision = "feat/docker-buildx",
+  name = "please_reuse",
+  revision = "v0.1.0",
   plugin = "please-reuse",
   owner = "mrsauravsahu",
 )
